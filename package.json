@@ -1,0 +1,23 @@
+{
+  "name": "talanta.github.io",
+  "version": "1.0.0",
+  "description": "My web site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talanta/talanta.github.io.git"
+  },
+  "author": "talant_a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talanta/talanta.github.io/issues"
+  },
+  "homepage": "https://github.com/talanta/talanta.github.io#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  }
+}

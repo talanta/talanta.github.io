@@ -1,4 +1,5 @@
-talanta.github.io
+My web site
 =================
 
-Personal web site
+Click [here !](http://talanta.github.io)  
+
